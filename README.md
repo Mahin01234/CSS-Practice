@@ -35,11 +35,10 @@ This project is created for learning and practicing the basics of HTML & CSS. It
 - **Box Model:** Using `height`, `width`, `background-color`, and `border` properties on `<div>` and `<h2>`.
 - **Pseudo-classes:** Implementing `:hover` to change button style interactively.
 - **Borders & Radius:** Applying `border` and `border-radius: 50%` to create rounded/elliptical shapes.
----
-## Technologies Used
-- **HTML5** – for structure
-- **CSS3** – for styling
+
+
 
 ---
+
 
 
