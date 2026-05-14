@@ -1,10 +1,10 @@
-# 🌈 CSS Practice
+# CSS Practice
 
 This project is created for learning and practicing the basics of HTML & CSS. It demonstrates various styling techniques – colors, fonts, layout, and more.
 
 ---
 
-## ✨ What's Inside?
+## What's Inside?
 The webpage includes:
 
 - **Color Usage:** Applying colors to text, backgrounds, and borders using HEX (`#000000`), RGB (`rgb(68,255,0)`), and named colors (`gold`, `coral`, `skyblue`).
@@ -14,7 +14,7 @@ The webpage includes:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **HTML5** – for structure
 - **CSS3** – for styling
 
