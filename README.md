@@ -15,7 +15,8 @@ This project is created for learning and practicing the basics of HTML & CSS. It
 | **Style.css** | Provides the visual styling: light blue page background (`body`), a sized & colored `<div>` with `border-radius`, a gold background and border for `<h2>`, and a `:hover` effect for the button. |
 | **index_1.html** |   A name heading (`<h1>`), some dummy text (`<p>`), a button that changes style when you hover over it, a colored box (`<div>`), and a personal message heading (`<h2>`). 
  **Style_1.css**   | A light blue background for the whole page (`body`), a sized & colored `<div>` (with border and `border-radius`), a gold background and border for the `<h2>`, and a button `:hover` effect. |
-
+| **index_2.html** | A minimal HTML page containing a &lt;div&gt; element (styled as a circle) and an &lt;h1&gt; heading. The structure is deliberately simple to highlight the applied CSS styling. | 
+| **Style_2.css** | A CSS stylesheet that turns the &lt;div&gt; into a gold‑bordered circle (border-radius: 50%) with a white background and centered text, and styles the &lt;h1&gt; as a black‑bordered block with specific padding (padding-right: 10px, padding-left: 25px, padding-top: 45px) and a 70px margin. | 
 
 
 ---
@@ -36,7 +37,13 @@ This project is created for learning and practicing the basics of HTML & CSS. It
 - **Pseudo-classes:** Implementing `:hover` to change button style interactively.
 - **Borders & Radius:** Applying `border` and `border-radius: 50%` to create rounded/elliptical shapes.
 
-
+**index_2.html and Style_2.css**: 
+- **Colors:** `gold`, `white`, `black`, `lightblue`
+- **Box Model:** `height`, `width`, `margin`, `padding`, `border`
+- **Border Radius:** `border-radius: 50%` (for circles)
+- **Pseudo-classes:** `:hover` (for interactive buttons)
+- **Text Styling:** `text-align: center`
+  
 
 ---
 
