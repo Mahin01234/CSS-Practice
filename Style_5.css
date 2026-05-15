@@ -1,0 +1,32 @@
+h1 {
+  font-size: 32px;
+}
+
+
+#box_1
+{
+    height: 110px ;
+    width: 110px ;
+    background-color:green; 
+    font-size: 20px ;
+}
+
+
+#box_2
+{
+    height: 110px ;
+    width: 110px ;
+    background-color: gold ;
+    font-size: 20px ;
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+
