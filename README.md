@@ -47,6 +47,19 @@ This project is created for learning and practicing the basics of HTML & CSS. It
 - **Pseudo-classes:** `:hover` (for interactive buttons)
 - **Text Styling:** `text-align: center`
   
+**index_3.html and Style_3.css**: 
+- **Floating Label Effect**: labels start in the middle of the input; on click or typing, they move up, shrink, and get a dark background
+- **CSS Transitions**: smooth sliding animation for labels (transition: .5s)
+- **Pseudo-classes**: focus and :valid trigger the label movement
+- **Input Styling**: transparent background, white border, white text, and rounded corners
+- **Flexbox Centering**: form centered vertically & horizontally on a blue background
+
+**index_4.html and Style_4.css**: 
+- **Spinning rainbow border**: made with CSS animation and conic gradient
+- **Moving dot background**: animated with keyframes
+- **Glass/blur effect**: using backdrop-filter
+- **Icons**: from Font Awesome
+- **Hover & focus effects**: inputs glow, button grows
 
 ---
 
