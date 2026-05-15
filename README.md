@@ -27,43 +27,5 @@ This project is created for learning and practicing the basics of HTML & CSS. It
 ---
 
 
-## Key Concepts Practiced
-**index.html and Style.css**: 
-- **Color Application:** Named colors (`gold`, `coral`, `skyblue`), HEX, and RGB values for text, backgrounds, and borders.
-- **Typography:** Text color, size, and alignment adjustments.
-- **Box Model:** Using `height`, `width`, `background-color`, and `border` properties.
-- **Pseudo-classes:** Implementing `:hover` to change button style interactively.
-- **Borders & Radius:** Applying `border` and `border-radius: 50%` to create rounded and elliptical shapes.
-
-**index_1.html and Style_1.css**: 
-- **Color Application:** Named colors (`gold`, `coral`, `skyblue`), white, black, and light blue for backgrounds, text, and borders.
-- **Typography:** Text color, size, and alignment adjustments.
-- **Box Model:** Using `height`, `width`, `background-color`, and `border` properties on `<div>` and `<h2>`.
-- **Pseudo-classes:** Implementing `:hover` to change button style interactively.
-- **Borders & Radius:** Applying `border` and `border-radius: 50%` to create rounded/elliptical shapes.
-
-**index_2.html and Style_2.css**: 
-- **Colors:** `gold`, `white`, `black`, `lightblue`
-- **Box Model:** `height`, `width`, `margin`, `padding`, `border`
-- **Border Radius:** `border-radius: 50%` (for circles)
-- **Pseudo-classes:** `:hover` (for interactive buttons)
-- **Text Styling:** `text-align: center`
-  
-**index_3.html and Style_3.css**: 
-- **Floating Label Effect**: labels start in the middle of the input; on click or typing, they move up, shrink, and get a dark background
-- **CSS Transitions**: smooth sliding animation for labels (transition: .5s)
-- **Pseudo-classes**: focus and :valid trigger the label movement
-- **Input Styling**: transparent background, white border, white text, and rounded corners
-- **Flexbox Centering**: form centered vertically & horizontally on a blue background
-
-**index_4.html and Style_4.css**: 
-- **Spinning rainbow border**: made with CSS animation and conic gradient
-- **Moving dot background**: animated with keyframes
-- **Glass/blur effect**: using backdrop-filter
-- **Icons**: from Font Awesome
-- **Hover & focus effects**: inputs glow, button grows
-
----
-
 
 
