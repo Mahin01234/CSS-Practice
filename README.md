@@ -23,8 +23,9 @@ This project is created for learning and practicing the basics of HTML & CSS. It
 | **Style_4.css** | A round login box with a spinning rainbow border, space background, glass effect, astronaut icon, glowing inputs, and a hover button. | 
 | **index_5.html** | Two boxes are placed side by side, centered inside a container. There's a 20px gap between them. Each box has a fixed size, text is centered horizontally and vertically. The big heading is also centered. | 
 | **Style_5.css** | This CSS styles a heading and two boxes. The boxes have the same size (110x110 pixels), different background colors (green and gold), and centered text. A container uses flexbox to place the boxes side by side, center them, and add a 20px gap between them. The heading has a font size of 32 pixels.|
-| **index_6.html** | A demo page of CSS Flexbox layout with five colored boxes inside a container. |
-| **Style_6.css** | Contains styling rules for the Flexbox Playground demo, including the corrected ID selector `#Container` and flex properties. |
+| **index_6.html** | A demo page of CSS Flexbox layout with five colored boxes inside a container. Contains styling rules for the Flexbox Playground demo, including the corrected ID selector `#Container` and flex properties. |
+| **index_7.html** | This HTML code displays the text "Hello Bangladesh" inside a <div> element. An inline CSS style of font-size: 100px is applied, which makes the text appear very large on the webpage. |
+| **Style_7.css** | This CSS file styles the webpage background with a light green color and centers the content using Flexbox. It also styles a div element with fixed width and height, blue border, golden background color, and smooth transition effects. When hovered, the div changes color, text color, and moves using transform. When clicked (active state), the background color changes to yellow. |
 
 
 ---
