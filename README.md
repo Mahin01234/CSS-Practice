@@ -23,7 +23,7 @@ This project is created for learning and practicing the basics of HTML & CSS. It
 | **Style_4.css** | A round login box with a spinning rainbow border, space background, glass effect, astronaut icon, glowing inputs, and a hover button. | 
 | **index_5.html** | Two boxes are placed side by side, centered inside a container. There's a 20px gap between them. Each box has a fixed size, text is centered horizontally and vertically. The big heading is also centered. | 
 | **Style_5.css** | This CSS styles a heading and two boxes. The boxes have the same size (110x110 pixels), different background colors (green and gold), and centered text. A container uses flexbox to place the boxes side by side, center them, and add a 20px gap between them. The heading has a font size of 32 pixels.|
-| **index_6.html** | <meta name="description" content="Flexbox Playground - A demo page showing the basic behavior of CSS Flexbox layout with five boxes inside a container."> | 
+| **index_6.html** | <meta name="description" content="Flexbox Playground - A demo page showing the basic behavior of CSS Flexbox layout with five boxes inside a flex container."> | 
 | **Style_6.css** | <meta name="description" content="Flexbox Playground - A demo page showing the basic behavior of CSS Flexbox layout with five boxes inside a flex container."> | 
 
 
