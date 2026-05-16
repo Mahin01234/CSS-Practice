@@ -1,0 +1,74 @@
+body
+{
+    background-color: burlywood ;
+    text-align: center; 
+}
+
+
+div
+{
+    height: 100px ; 
+    width: 800px ; 
+    display: inline-block ; 
+    border: 5px solid rgb(0, 81, 255) ; 
+    flex-direction: row-reverse ;
+
+    justify-content: space-around ;
+}
+
+
+
+#container
+{
+    width: 800px ; 
+    height: 200px ; 
+    display: flex ;
+
+    flex-direction: row ;
+
+    justify-content: center ;
+
+    flex-wrap: wrap ;
+
+    align-items: center ;
+
+}
+
+
+#box1
+{
+    background-color: cadetblue ; 
+}
+
+
+
+#box2
+{
+    background-color: bisque ; 
+    height: 20px ;
+}
+
+#box3
+{
+    background-color: coral ; 
+    height: 40px ;
+}
+
+
+#box4
+{ 
+    background-color:  yellowgreen ;
+}
+
+
+
+#box5
+{
+    background-color:cornflowerblue ; 
+
+
+}
+
+
+
+  
