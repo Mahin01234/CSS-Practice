@@ -26,6 +26,9 @@ This project is created for learning and practicing the basics of HTML & CSS. It
 | **index_6.html** | A demo page of CSS Flexbox layout with five colored boxes inside a container. Contains styling rules for the Flexbox Playground demo, including the corrected ID selector `#Container` and flex properties. |
 | **index_7.html** | This HTML code displays the text "Hello Bangladesh" inside a <div> element. An inline CSS style of font-size: 100px is applied, which makes the text appear very large on the webpage. |
 | **Style_7.css** | This CSS file styles the webpage background with a light green color and centers the content using Flexbox. It also styles a div element with fixed width and height, blue border, golden background color, and smooth transition effects. When hovered, the div changes color, text color, and moves using transform. When clicked (active state), the background color changes to yellow. |
+| **index_8.html** | This webpage contains headings, paragraphs, icons, links, horizontal lines, and a navigation list. Font Awesome and Google Material Icons are used for displaying icons. An external CSS file is connected for styling and design. | 
+| **Style_8.css** | This CSS file is used to style the webpage. It controls colors, borders, margins, padding, fonts, icons, links, and list styles. Hover and active effects are also applied to links. Font Awesome and Google Material Icons are customized with different sizes and colors. | 
+
 
 
 ---
